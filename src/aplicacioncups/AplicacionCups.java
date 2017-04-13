@@ -20,6 +20,8 @@ public class AplicacionCups {
         for(int i = 1;i<5;i++)
             System.out.println("Configuracion y Usos de Paquetes de Software");
         System.out.println("Configuracion y Usos de Paquetes de Software");
+        for(int i = 1;i<5;i++)
+            System.out.println("Nuevooooo");
         
     }
     
