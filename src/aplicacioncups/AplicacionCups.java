@@ -24,6 +24,7 @@ public class AplicacionCups {
             System.out.println("Nuevooooo");
         
         int j = 1;
+        String nombre = "Leandro";
         
     }
     
