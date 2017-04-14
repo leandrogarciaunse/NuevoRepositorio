@@ -26,6 +26,10 @@ public class AplicacionCups {
         int j = 1;
         String nombre = "Leandro";
         
+        //nueva modificacion
+      
+        String apellido = "Garcia";
+        
     }
     
 }
